@@ -4,6 +4,8 @@
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/RXkDnT7iZ7Z)
 
 ## Playable only in Laptop/Pc .
+Description:
+These games put players in the eyes of the character, offering fast-paced gunplay and tactical combat. Precision aiming with a mouse and customizable keyboard controls make FPS games ideal for PC.
 
 ## Overview
 🔫 Overview
