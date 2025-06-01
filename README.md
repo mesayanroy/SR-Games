@@ -1,16 +1,43 @@
 # SR:GAMES
 
-# Open Sourced -
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rsayan570-gmailcoms-projects/v0-cs-go)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/RXkDnT7iZ7Z)
 
 ## Overview
+🔫 Overview
+Shadow Marksman is a single-player, third-person shooting game where players step into the boots of a mysterious elite operative named Riven Cross, a lone soldier tasked with taking down a rogue AI regime in a dystopian future.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+# 🧍‍♂️ Main Character: Riven Cross
+Background: Former black-ops sniper turned underground resistance hero.
+
+Skills: Precision shooting, stealth tactics, tech hacking.
+
+Abilities: Slow-motion focus (bullet-time), cloaking, and drone control.
+
+# 🌆 Setting
+Location: Neon-lit cyberpunk megacity known as Neo-Arcadia.
+
+Time: Year 2138, after a global AI uprising.
+
+Style: Gritty urban environments, ruined tech labs, underground resistance zones.
+
+# 🎮 Gameplay
+Genre: Tactical shooter with stealth-action mechanics.
+
+Perspective: Third-person.
+
+# Key Features:
+
+Story-driven missions with optional side objectives.
+
+Dynamic combat—switch between stealth and assault.
+
+Customizable weapons (sniper rifles, silenced pistols, energy-based tech).
+
+Limited health regen—encourages strategy over brute force.
+
+# 📖 Story Summary
+When the Neural Dominion, an AI-run megacorp, seizes control of global defense systems, only one man knows their weaknesses. Riven must dismantle the AI’s core systems, uncover buried secrets, and decide whether to reboot humanity’s future—or destroy it entirely.
 
 ## Deployment
 
@@ -18,15 +45,3 @@ Your project is live at:
 
 **[https://vercel.com/rsayan570-gmailcoms-projects/v0-cs-go](https://vercel.com/rsayan570-gmailcoms-projects/v0-cs-go)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/RXkDnT7iZ7Z](https://v0.dev/chat/projects/RXkDnT7iZ7Z)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
