@@ -23,8 +23,8 @@ export default function LoadingScreen() {
     <div className="fixed inset-0 bg-black flex items-center justify-center z-50">
       <div className="text-center">
         <h1 className="text-6xl font-bold mb-8">
-          <span className="text-game-primary">Fe₂</span>
-          <span className="text-game-accent">O₃</span>
+          <span className="text-game-primary">SR</span>
+          <span className="text-game-accent">Games</span>
         </h1>
         <div className="w-64 h-2 bg-gray-800 rounded-full overflow-hidden">
           <div
