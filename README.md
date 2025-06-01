@@ -3,6 +3,8 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rsayan570-gmailcoms-projects/v0-cs-go)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/RXkDnT7iZ7Z)
 
+## Playable only in Laptop/Pc .
+
 ## Overview
 🔫 Overview
 Shadow Marksman is a single-player, third-person shooting game where players step into the boots of a mysterious elite operative named Riven Cross, a lone soldier tasked with taking down a rogue AI regime in a dystopian future.
